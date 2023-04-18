@@ -1,18 +1,19 @@
 import { Navbar,  Collapse } from 'bootstrap-4-react';
 import { Link } from 'react-router-dom';
+import { NavLink } from './NavBar.styled';
 
 const NavBar = () => {
     return (
         <Navbar fixed="top" expand="lg" dark bg="dark" mb="3">
-        <Link to="/">Home</Link>
+        <NavLink to="/">Home</NavLink>
         <Navbar.Toggler target="#navbarColor1" />
         <Collapse navbar id="navbarColor1">
           <Navbar.Nav mr="auto">
-          <Link to="/users" >Users list</Link>
-            <Link to="/add-role" >Add role</Link>
+          <NavLink to="/users" >Users list</NavLink>
+            <NavLink to="/add-role" >Add role</NavLink>
       
-            <Link to="/edit-users">Edit users</Link>
-            <Link to="/create-trip">Create trip</Link>
+            <NavLink to="/edit-users">Edit users</NavLink>
+            <NavLink to="/create-trip">Create trip</NavLink>
           </Navbar.Nav>
         </Collapse>
       </Navbar> 
