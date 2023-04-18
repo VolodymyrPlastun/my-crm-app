@@ -1,5 +1,4 @@
 import { Navbar,  Collapse } from 'bootstrap-4-react';
-import { Link } from 'react-router-dom';
 import { NavLink } from './NavBar.styled';
 
 const NavBar = () => {
