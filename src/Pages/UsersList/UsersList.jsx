@@ -6,9 +6,9 @@ import {  ListItem, ItemLabel, ListDivider } from './UsersList.styled';
 const UsersList = () => {
     const [dataArr, setDataArr] = useState([]);
 
-      useEffect(() =>{
-        getData(setDataArr);
-      }, []);
+      useEffect( () => {
+       getData(setDataArr);
+      }, [dataArr]);
 
     return (
         <>
