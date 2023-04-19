@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/my-crm-app/static/css/main.a05f5ac2.css",
-    "main.js": "/my-crm-app/static/js/main.70d76516.js",
+    "main.js": "/my-crm-app/static/js/main.1d03620c.js",
     "static/js/46.7ed2eb82.chunk.js": "/my-crm-app/static/js/46.7ed2eb82.chunk.js",
-    "static/js/290.f78afc35.chunk.js": "/my-crm-app/static/js/290.f78afc35.chunk.js",
+    "static/js/290.54cff058.chunk.js": "/my-crm-app/static/js/290.54cff058.chunk.js",
     "static/js/473.e21ee334.chunk.js": "/my-crm-app/static/js/473.e21ee334.chunk.js",
     "static/js/87.ac7ba668.chunk.js": "/my-crm-app/static/js/87.ac7ba668.chunk.js",
     "static/js/831.42f9d509.chunk.js": "/my-crm-app/static/js/831.42f9d509.chunk.js",
@@ -17,9 +17,9 @@
     "static/css/714.f60d59c3.chunk.css": "/my-crm-app/static/css/714.f60d59c3.chunk.css",
     "index.html": "/my-crm-app/index.html",
     "main.a05f5ac2.css.map": "/my-crm-app/static/css/main.a05f5ac2.css.map",
-    "main.70d76516.js.map": "/my-crm-app/static/js/main.70d76516.js.map",
+    "main.1d03620c.js.map": "/my-crm-app/static/js/main.1d03620c.js.map",
     "46.7ed2eb82.chunk.js.map": "/my-crm-app/static/js/46.7ed2eb82.chunk.js.map",
-    "290.f78afc35.chunk.js.map": "/my-crm-app/static/js/290.f78afc35.chunk.js.map",
+    "290.54cff058.chunk.js.map": "/my-crm-app/static/js/290.54cff058.chunk.js.map",
     "473.e21ee334.chunk.js.map": "/my-crm-app/static/js/473.e21ee334.chunk.js.map",
     "87.ac7ba668.chunk.js.map": "/my-crm-app/static/js/87.ac7ba668.chunk.js.map",
     "831.42f9d509.chunk.js.map": "/my-crm-app/static/js/831.42f9d509.chunk.js.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.a05f5ac2.css",
-    "static/js/main.70d76516.js"
+    "static/js/main.1d03620c.js"
   ]
 }
